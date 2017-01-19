@@ -1,6 +1,5 @@
-前言：
-
-我童年的齒輪⚙️
+##前言
+#我童年的齒輪⚙️
 
 ![car differential](https://github.com/asj252/Papert_Mindstorms_Chinese/raw/master/images/car_differential.jpg)
 
